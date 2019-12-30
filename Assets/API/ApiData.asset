@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 454588890422d8347b9786430f18212d, type: 3}
+  m_Name: ApiData
+  m_EditorClassIdentifier: 
+  AndroidInfor:
+    StoreLink: https://play.google.com/store/apps/developer?id=79+Studio
+    GameLink: https://play.google.com/store/apps/details?id=com.blockclassic.blockmania.marbleblock.block
+    Admob:
+      AdmobBannerId: ca-app-pub-4556969916190113/7522499437
+      AdmobFullId: ca-app-pub-4556969916190113/6298839685
+      AdmobVideoId: ca-app-pub-4556969916190113/2270172753
+      IsUseBanner: 1
+      IsUseFull: 1
+      IsUseVideo: 1
+      BannerPosition: 1
+    UnityVideoId: 1753370
+  IosInfor:
+    StoreLink: https://itunes.apple.com/us/developer/tran-tuan-anh/id1217482520?mt=8
+    GameLink: https://itunes.apple.com/us/app/block-marble-block-classic/id1434958097?l=vi&ls=1&mt=8
+    Admob:
+      AdmobBannerId: ca-app-pub-4556969916190113/6270919525
+      AdmobFullId: ca-app-pub-4556969916190113/3546777167
+      AdmobVideoId: ca-app-pub-4556969916190113/6079347838
+      IsUseBanner: 1
+      IsUseFull: 1
+      IsUseVideo: 1
+      BannerPosition: 1
+    UnityVideoId: 1753371

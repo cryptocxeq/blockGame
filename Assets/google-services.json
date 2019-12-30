@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "369237251912",
+    "firebase_url": "https://blockmania-59190.firebaseio.com",
+    "project_id": "blockmania-59190",
+    "storage_bucket": "blockmania-59190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369237251912:android:31f37982bcd4f606",
+        "android_client_info": {
+          "package_name": "com.blockclassic.blockmania.marbleblock.block"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369237251912-4brupursffsfcappu609ls96dm4attj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDe1OzELYMGFzciBSv1BB2_ZaX6Me3YmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

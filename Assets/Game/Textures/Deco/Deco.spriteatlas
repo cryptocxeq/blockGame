@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Deco
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d6515521669cd534690ec1ae7b02b55c, type: 3}
+    totalSpriteSurfaceArea: 121974
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5ab4dd10041bdfe45af3832f1ec1753a, type: 3}
+  - {fileID: 21300000, guid: 3dd4ae2039d29e243821bdfaf89071ac, type: 3}
+  - {fileID: 21300000, guid: 10595a80ad0435e4396bcab907cdb3ee, type: 3}
+  - {fileID: 21300000, guid: 7f8392c0a6c6dea42bbce0f502a97f97, type: 3}
+  - {fileID: 21300000, guid: 63b7fb210a520fc47918896e34a28f7e, type: 3}
+  - {fileID: 21300000, guid: 985dbf51a629e3944b25877318daad72, type: 3}
+  - {fileID: 21300000, guid: 4f2e1c12974dd57469b2e13d254c34eb, type: 3}
+  - {fileID: 21300000, guid: e28cd432d50eca247a9ff4dbb297d24d, type: 3}
+  - {fileID: 21300000, guid: 11528f82fc791bc4c8e66c7f55a57326, type: 3}
+  - {fileID: 21300000, guid: 702592c2d29c23f4fbaa0198d2614f29, type: 3}
+  - {fileID: 21300000, guid: ae8d10e285045074bb84fcc336af013d, type: 3}
+  - {fileID: 21300000, guid: 0b4260a32bee482439b92d5b2c9b6234, type: 3}
+  - {fileID: 21300000, guid: 6cb07114a279a064ab9311ca15093d2e, type: 3}
+  - {fileID: 21300000, guid: dbc36714b95405b4b884530a2ad60685, type: 3}
+  - {fileID: 21300000, guid: 577664157b5f5fb4884f9a85e1097845, type: 3}
+  - {fileID: 21300000, guid: eeb193d534736094a82d045b3f334af1, type: 3}
+  - {fileID: 21300000, guid: 17ca0dd5910c51244a879878409c6efa, type: 3}
+  - {fileID: 21300000, guid: 3b4c7e460591aec44bd308e541d8c75b, type: 3}
+  - {fileID: 21300000, guid: 22d0f296b73c18b4e997324eed3da5fe, type: 3}
+  - {fileID: 21300000, guid: 766bd8a6c59bf3945bc8db11887ba40d, type: 3}
+  - {fileID: 21300000, guid: 284feca69e4a59f4fac581c65fc53093, type: 3}
+  - {fileID: 21300000, guid: 982343074c0711f4ea5d65f816f3913c, type: 3}
+  - {fileID: 21300000, guid: b7f0c597e9f0f724a86363d5ac7654a9, type: 3}
+  - {fileID: 21300000, guid: f99c52b79e9bb4145a7453f08ba9de83, type: 3}
+  - {fileID: 21300000, guid: 5bdab2e9944916d499bfa18637054a2a, type: 3}
+  - {fileID: 21300000, guid: 5f0679e92e966854b8e7e47a481aa8a4, type: 3}
+  - {fileID: 21300000, guid: aaade50a122dcd14982626003d45427c, type: 3}
+  - {fileID: 21300000, guid: 8d28753aaa6478d4eae27e3d4bd983d4, type: 3}
+  - {fileID: 21300000, guid: 90af1f6a969f0654690487a313f613d2, type: 3}
+  - {fileID: 21300000, guid: 2f51f8da3ada8b146a94bf6d168a4cf1, type: 3}
+  - {fileID: 21300000, guid: 0f53a0fa392e510449f1daf7f4075da5, type: 3}
+  - {fileID: 21300000, guid: da1b698ba8c65ec4f9da966374e84e83, type: 3}
+  - {fileID: 21300000, guid: 3e32f19b42b57c7479e8a161eaa7fc71, type: 3}
+  - {fileID: 21300000, guid: cca78c9b58af2994d8d83dfadbfb4d0e, type: 3}
+  - {fileID: 21300000, guid: 9345e62cc90e1054bb04583d99c1068a, type: 3}
+  - {fileID: 21300000, guid: c82eb23ca48fa834eb1533a275548c2e, type: 3}
+  - {fileID: 21300000, guid: 60902e5cadb7bfd41af64560277efd85, type: 3}
+  - {fileID: 21300000, guid: f171353d3748e36439df841926e00c41, type: 3}
+  - {fileID: 21300000, guid: bcb1a55df49dcdf46aee40058c5df398, type: 3}
+  - {fileID: 21300000, guid: b9b9adcdf10a5ce4c891050528399a02, type: 3}
+  - {fileID: 21300000, guid: 45d015fed2c504945a6b80c6cb901100, type: 3}
+  - {fileID: 21300000, guid: d38d5ddff9a464443a3dd120faf8b970, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 00006
+  - 002
+  - 2
+  - 6
+  - 06
+  - 04
+  - 000006
+  - 00005
+  - 000002
+  - 4
+  - 0004
+  - 03
+  - 0003
+  - 00004
+  - 1
+  - 000001
+  - 0002
+  - 005
+  - 3
+  - 00001
+  - 000007
+  - 006
+  - 05
+  - 5
+  - 0001
+  - 0007
+  - 0005
+  - 000003
+  - 0006
+  - 000004
+  - 07
+  - 003
+  - 01
+  - 00007
+  - 000005
+  - 00002
+  - 007
+  - 00003
+  - 004
+  - 02
+  - 001
+  - 7
+  m_Tag: Deco
+  m_IsVariant: 0

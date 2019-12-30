@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>369237251912-nasgglk8fsqa7kptpv3kmj6rfs18pbtv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369237251912-nasgglk8fsqa7kptpv3kmj6rfs18pbtv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwWMSASTGJnTjfgreOI37DLaEDLqrFOAY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369237251912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blockclassic.blockmania.marbleblock.block</string>
+	<key>PROJECT_ID</key>
+	<string>blockmania-59190</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blockmania-59190.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369237251912:ios:31f37982bcd4f606</string>
+	<key>DATABASE_URL</key>
+	<string>https://blockmania-59190.firebaseio.com</string>
+</dict>
+</plist>

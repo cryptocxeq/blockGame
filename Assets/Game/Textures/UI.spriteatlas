@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 12ed8736852154f5bb97aede873afd74, type: 3}
+    - {fileID: 102900000, guid: bc11b41ecca0d4dab84e39ca594cfdc1, type: 3}
+    - {fileID: 102900000, guid: f82eef004d3e82241ab3b44fcf4b0f63, type: 3}
+    totalSpriteSurfaceArea: 2713031
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 37174400f6f556542a895f1e738b0558, type: 3}
+  - {fileID: 21300000, guid: 294a4c90354aecd46b0f993a377b29ae, type: 3}
+  - {fileID: 21300000, guid: 6117c6f0f91c5824ab0d7c611d8af58c, type: 3}
+  - {fileID: 21300000, guid: f45247619c2454824a9bd088d28488fb, type: 3}
+  - {fileID: 21300000, guid: 28e2dfc17e701034081bcb0e19234a79, type: 3}
+  - {fileID: 21300000, guid: 87ba94e11e236164cb3e5a2fec0f872e, type: 3}
+  - {fileID: 21300000, guid: 07d355e10dc404364bc14319b7895a74, type: 3}
+  - {fileID: 21300000, guid: 0aef9e4278f67934a943e6ff5f58d9ad, type: 3}
+  - {fileID: 21300000, guid: aefd4072d833ecb4da03823e9becc0d6, type: 3}
+  - {fileID: 21300000, guid: 2d2cfcd2b8e1999448844d7e8e2d38f0, type: 3}
+  - {fileID: 21300000, guid: eb91f534024174eaa91e51452c9623c9, type: 3}
+  - {fileID: 21300000, guid: 7c1e176404f429d419e3cc91b6c499ab, type: 3}
+  - {fileID: 21300000, guid: 327af4e4e157745ea9ce97a680a0e9ae, type: 3}
+  - {fileID: 21300000, guid: 71194a35db82f704982b68a4be84faa5, type: 3}
+  - {fileID: 21300000, guid: df2b9b459b1829449978d2f41191c7dc, type: 3}
+  - {fileID: 21300000, guid: 0a9dff1657ce5c64281b5e54ba77671e, type: 3}
+  - {fileID: 21300000, guid: f5393b2621e4e4bfca5862292e3c16f7, type: 3}
+  - {fileID: 21300000, guid: 5db612365d7e3452995831a1a46a3840, type: 3}
+  - {fileID: 21300000, guid: 3f37633612fd1974894ca40a23fd3a3a, type: 3}
+  - {fileID: 21300000, guid: 06e3dba6f738e064e8c0d024db1eece9, type: 3}
+  - {fileID: 21300000, guid: 2e0b5017dbc50454eadcb2d80e7ae3cc, type: 3}
+  - {fileID: 21300000, guid: d0f0ed3785879c940aea1375e81cadb0, type: 3}
+  - {fileID: 21300000, guid: f2f9c2476cd06444baddacbdbc1e963c, type: 3}
+  - {fileID: 21300000, guid: aff3a588c07b84e7385c1e4581b9a217, type: 3}
+  - {fileID: 21300000, guid: 571f2a888342cb645b04689833241254, type: 3}
+  - {fileID: 21300000, guid: 84c689f85daf77c479b189eacaf79335, type: 3}
+  - {fileID: 21300000, guid: fea186795fd49448690cbc33aeb22b5f, type: 3}
+  - {fileID: 21300000, guid: 4ca2369974b2b4465a9eff9967aecab7, type: 3}
+  - {fileID: 21300000, guid: 5c5c24b907da0d44f95414f41bcafb6f, type: 3}
+  - {fileID: 21300000, guid: f432b67a9a0621544beb8122fc51226e, type: 3}
+  - {fileID: 21300000, guid: c487ca3bf06eb7f4c893a8585fab3bb9, type: 3}
+  - {fileID: 21300000, guid: 959db9fb52d334933b0c6a04506bcb22, type: 3}
+  - {fileID: 21300000, guid: 8f986a2ce96fb4f109a8a9d02689041c, type: 3}
+  - {fileID: 21300000, guid: d2e9ec3c9fe8dea4885e8719978c204e, type: 3}
+  - {fileID: 21300000, guid: 36dfaf4dfcbed314a94fc7233d874859, type: 3}
+  - {fileID: 21300000, guid: acde7b5d5c9f8df4da16bee1f8f51ce8, type: 3}
+  - {fileID: 21300000, guid: d3e0cd7ddd07176439fafb69d17b60f8, type: 3}
+  - {fileID: 21300000, guid: 9b3163cdee8168e4c8e499af12b9ae8d, type: 3}
+  - {fileID: 21300000, guid: 8fc0d2dec8d2c134289be1bb57f5f58e, type: 3}
+  - {fileID: 21300000, guid: 6ad21c7f1ab497748a5a2d9a0bbb1b88, type: 3}
+  - {fileID: 21300000, guid: 8f24dfcfa20a540d2a8f55a83fbc4fd3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - slider_di
+  - 5
+  - Circle
+  - 3
+  - top panel
+  - bgBtn
+  - btnHintOff
+  - btnPause
+  - btnBack
+  - iconVideo
+  - btnMoregame
+  - Layer 1
+  - btnFacebook
+  - btnSoundOff
+  - itembar
+  - btnRotate
+  - Layer 2
+  - btnMusicOff
+  - btnHintOn
+  - Logo
+  - btnNext
+  - btnSoundOn
+  - btnLeaderBoard
+  - btnSetting
+  - btnMusicOn
+  - CircleButton
+  - Layer 4
+  - btnReplay
+  - wood level complete
+  - low panel
+  - Layer 3
+  - New_
+  - wood score
+  - 2
+  - btnLike
+  - btnContinue
+  - btnMenu
+  - bgBtn
+  - btnPlay
+  - 52293314_808267366194556_898620541164847104_n
+  m_Tag: UI
+  m_IsVariant: 0
